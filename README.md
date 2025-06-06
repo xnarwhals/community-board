@@ -2,9 +2,9 @@
 
 Submitted by: **Xavier Gonzalez**
 
-This web app: ****
+This web app: 2025
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -34,9 +34,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/4f46e356613d47548e20b36e39c494b0?sid=ef47d66f-f0e6-44bc-8cea-52535d1323ce" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/4f46e356613d47548e20b36e39c494b0">
+      <p>CommunityBoard - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/4f46e356613d47548e20b36e39c494b0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4f46e356613d47548e20b36e39c494b0-928debc93b1d93a1-full-play.gif">
+    </a>
+  </div>
 
-Video created with Loom  
+GIF created with Loom  
 
 ## Notes
 
