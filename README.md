@@ -4,7 +4,7 @@ Submitted by: **Xavier Gonzalez**
 
 This web app: 2025
 
-Time spent: **8** hours spent in total
+Time spent: **~9** hours spent in total
 
 ## Required Features
 
@@ -29,6 +29,7 @@ The following **additional** features are implemented:
 
 * [x] Flip card functionality
 * [x] Hover effects on card and button elements
+* [x] 4 more game cards
 
 ## Video Walkthrough
 
