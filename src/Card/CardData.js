@@ -8,6 +8,10 @@ import Fallout_Logo from "../assets/fallout.png";
 import Mario_Logo from "../assets/mario.png";
 import Portal_Logo from "../assets/portal.png";
 import Pikmin_Logo from "../assets/pikmin.png";
+import Phasmophobia_Logo from "../assets/ghost.png";
+import Undertale_Logo from "../assets/undertale.png";
+import UntilDawn_Logo from "../assets/dawn.png";
+import Cuphead_Logo from "../assets/cuphead.png";
 
 // Stretch Goals Below
 // Add properties: ESRB rating, platform, release date, studio, has remake?, and metacritic score
@@ -141,6 +145,58 @@ const CardData = [
         studio: "Nintendo",
         hasRemake: true,
         metacriticScore: 87
+    },
+    {
+        id: 11,
+        gameName: "Phasmophobia",
+        genre: "Horror",
+        link: "https://store.steampowered.com/app/739630/Phasmophobia/",
+        image: Phasmophobia_Logo,
+        rating: "T",
+        platform: "PC, Console, VR",
+        releaseDate: "September 18, 2020",
+        studio: "Kinetic Games",
+        hasRemake: false,
+        metacriticScore: 76
+    },
+    {
+        id: 12,
+        gameName: "Undertale",
+        genre: "RPG",
+        link: "https://store.steampowered.com/app/391540/Undertale/",
+        image: Undertale_Logo,
+        rating: "E10+",
+        platform: "PC, Console",
+        releaseDate: "September 15, 2015",
+        studio: "Toby Fox",
+        hasRemake: false,
+        metacriticScore: 92
+    },
+    {
+        id: 13,
+        gameName: "Until Dawn",
+        genre: "Horror",
+        link: "https://www.playstation.com/en-us/games/until-dawn/",
+        image: UntilDawn_Logo,
+        rating: "M",
+        platform: "PlayStation 4",
+        releaseDate: "August 25, 2015",
+        studio: "Supermassive Games",
+        hasRemake: true,
+        metacriticScore: 79
+    },
+    {
+        id: 14,
+        gameName: "Cuphead",
+        genre: "Run and Gun",
+        link: "https://store.steampowered.com/app/268910/Cuphead/",
+        image: Cuphead_Logo,
+        rating: "E10+",
+        platform: "PC, Console",
+        releaseDate: "September 29, 2017",
+        studio: "Studio MDHR",
+        hasRemake: false,
+        metacriticScore: 86
     }
 ]
 

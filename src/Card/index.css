@@ -79,7 +79,7 @@
 .play-btn {
   text-decoration: none;
   padding: 6px 12px;
-  background: lightgreen;
+  background: #CDC1FF;
   color: white;
   border-radius: 4px;
   margin-bottom: 8px;
@@ -87,7 +87,8 @@
 }
 
 .play-btn:hover {
-  background: green;
+  color: white;
+  background: darkblue;
 }
 
 .game-details {
